@@ -1,5 +1,5 @@
 # awesome-salesforce-architect
-Inspired by the awesome-salesforce list https://github.com/mailtoharshit/awesome-salesforce
+Inspired by the [awesome-salesforce list](https://github.com/mailtoharshit/awesome-salesforce)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
