@@ -9,7 +9,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 * [Awesome Salesforce](#awesome-salesforce--)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
 * [Articles for Architects](#articles-for-architects)
-** [Salesforce Record Access Under the Hood](#salesforce-record-access-under-the-hood)
+  * [Salesforce Record Access Under the Hood](#salesforce-record-access-under-the-hood)
 
 ### Salesforce Developer Free Edition Signup
 * [Signup for a Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
@@ -20,4 +20,5 @@ I wanted to create something more focused on Salesforce architects rather than t
 ### Online Communities
 As an Architect it is good to keep your finger on the pulse of the industry
 
-* https://www.reddit.com/r/salesforce/ 
+* [Salesforce Sub-reddit](https://www.reddit.com/r/salesforce/) - completely unofficial, but monitored by Salesforce employees and free of marketing spin
+* [SFDX Discord Server](https://sfxd.github.io/) - 
