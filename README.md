@@ -12,6 +12,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 * [Blogs](#blogs)
 * [Online Communities](#online_communities)
 * [Podcasts](#podcasts)
+* [Tools for Architects](#tools_for_architects)
 
 
 ### Articles for Architects
@@ -34,12 +35,13 @@ As an Architect it is good to keep your finger on the pulse of the industry
 * [Salesforce Sub-reddit](https://www.reddit.com/r/salesforce/) - completely unofficial, but monitored by Salesforce employees and free of marketing spin
 * [Salesforce Developer Sub-reddit](https://www.reddit.com/r/SalesforceDeveloper/) - less used than the main subreddit, but more appropriate for difficult technical questions
 * [SFDX Discord Server](https://sfxd.github.io/) - 
+* [Ohana Slack Cheannel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - 
 
 
 ### Podcasts
 * [Good day sir](https://www.gooddaysirpodcast.com/episodes) - 
 
 
-
-### Salesforce Developer Free Edition Signup
-* [Signup for a Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
+### Tools for Architects
+* [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
+* 
