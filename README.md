@@ -77,3 +77,4 @@ You can't learn everything, but Salesforce seldom exists in isolation. Although 
 * [Amazon Web Services](https://aws.amazon.com/featured-partners/salesforce/) - AWS is the 'official' cloud partner to Salesforce, with both companies building connectors between their services
 * [Microsoft Azure](https://azure.microsoft.com/) - Although considered a competitor to Salesforce, the Azure platform is found in many customers and it is completely feasible to integrate services in Salesforce. You can connect to Azure storage, or leverage Azure AD for SSO.
 * [Microsoft Office 365](https://www.office.com/) - Microsoft's other cloud service is also pervasive, and Salesforce also offer connectors to OneDrive, Outlook and Teams
+* [Google G-Suite](https://www.salesforce.com/au/solutions/small-business-solutions/integrations/gmail-google-chrome-plugin/) - Salesforce also integrates well with Google's office suite
