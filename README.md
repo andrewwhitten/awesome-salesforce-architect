@@ -52,4 +52,4 @@ As an Architect it is good to keep your finger on the pulse of the industry. The
 Worth noting that [LucidChart](https://www.lucidchart.com) announced special (paid) Salesforce diagramming tools at Trailheadx '21, but I can't find anything released yet.
 
 * [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
-* [diagrams.net](https://www.diagrams.net) - Usefull online drawing service that allows you to create UML diagrams. Not Salesforce specific at all.
+* [diagrams.net](https://www.diagrams.net) - Usefull online drawing service that allows you to create UML diagrams. Not Salesforce specific at all. You can build basic diagrams for free, however higher complexity diagrams will require a paid subscription
