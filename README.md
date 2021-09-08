@@ -25,6 +25,9 @@ I really want this list to be as short as possible, with eery link below adding 
 * [YouTube Salesforce Developer](https://www.youtube.com/playlist?list=UUKORm8sxh3cheBpqs0akkhg) - Official Salesforce videos for developers
 
 ### Certifications for Architects
+
+Opinions vary around whether you need to be certified by Salesforce to be an Architect. Some say that only a top certified CTA can speak with authority, and some say they can do their work with no certifications at all. In practice you are going to be helped by archieving some level of certification, as well as learning about platform aspects that you would otherwise not have encountered in your current job:
+
 * [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
 * [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect (CAA) exam. 
 
