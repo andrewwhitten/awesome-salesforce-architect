@@ -20,6 +20,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 
 ### Resources for Architects
 * [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates and best practices
+* [YouTube Salesforce Developer](https://www.youtube.com/playlist?list=UUKORm8sxh3cheBpqs0akkhg) - Official Salesforce videos for developers
 
 ### Certifications for Architects
 * [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
@@ -27,7 +28,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
-* 
+
 
 ### Online Communities
 As an Architect it is good to keep your finger on the pulse of the industry
@@ -38,10 +39,8 @@ As an Architect it is good to keep your finger on the pulse of the industry
 * [Ohana Slack Cheannel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - Another long established community on Salesforce's new Slack aquisition
 * [Salesforce Architects on Linkedin](https://www.linkedin.com/showcase/salesforce-architects/) - Not strictly an interactive community, but many Architects are part of this group
 
-
 ### Podcasts
 * [Good day sir](https://www.gooddaysirpodcast.com/episodes) - 
-
 
 ### Tools for Architects
 * [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
