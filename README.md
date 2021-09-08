@@ -7,18 +7,22 @@ I wanted to create something more focused on Salesforce architects rather than t
 
 ## Table of Contents
 * [Articles for Architects](#articles-for-architects)
-  * [Salesforce Record Access Under the Hood](#salesforce-record-access-under-the-hood)
 * [Resources for Architects](#resources-for-architects)
-  * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
+* [Certifications for Architects](#certifications-for-architects)
 * [Blogs](#blogs)
-  * [Salesforce Architects Blog](#salesforce_architects_blog)
+* [Online Communities](#online_communities)
+* [Podcasts](#podcasts)
 
 
 ### Articles for Architects
 * [Salesforce Record Access Under the Hood](https://developer.salesforce.com/docs/atlas.en-us.salesforce_record_access_under_the_hood.meta/salesforce_record_access_under_the_hood/uth_preface.htm) - Important technical description of how Salesforce actually works at its database level, and how that impacts you.
 
 ### Resources for Architects
-* [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates abd best practices
+* [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates and best practices
+
+### Certifications for Architects
+* [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
+* [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect) exam. 
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
@@ -28,6 +32,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 As an Architect it is good to keep your finger on the pulse of the industry
 
 * [Salesforce Sub-reddit](https://www.reddit.com/r/salesforce/) - completely unofficial, but monitored by Salesforce employees and free of marketing spin
+* [Salesforce Developer Sub-reddit](https://www.reddit.com/r/SalesforceDeveloper/) - less used than the main subreddit, but more appropriate for difficult technical questions
 * [SFDX Discord Server](https://sfxd.github.io/) - 
 
 
