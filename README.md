@@ -54,3 +54,24 @@ Worth noting that [LucidChart](https://www.lucidchart.com) announced special (pa
 
 * [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
 * [diagrams.net](https://www.diagrams.net) - Usefull online drawing service that allows you to create UML diagrams. Not Salesforce specific at all. You can build basic diagrams for free, however higher complexity diagrams will require a paid subscription
+
+### Related Salesforce Products
+Salesforce has been investing heavially in aquisitions that are gradually integrating further into their core product. A Salesforce Architect is likely to meet some of these during their career, and worth understanding:
+
+* [MuleSoft](https://www.mulesoft.com) - core integration platform, and used in plenty of non-Salesforce environments
+* [Tableau](https://www.tableau.com) - Analytics platform, and already appearing in the core platform as Tableau CRM (merging into the previous Einstien Analytics product)
+* [Slack](https://slack.com) - Collaboration platform, and possibly the future user experience for CRM in the Salesforce stack
+* [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/) - Email marketing platform for advanced customer engagement
+* [Salesforce Industries](https://www.salesforce.com/solutions/industries/) - Industry specific accelerators for Salesforce, including advanced configuration based data access and forms functionality. Used to be the Vlocity company.
+
+### Salesforce ISV's
+An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit:
+
+* <Section TBC>
+
+### Other Vendors
+You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
+
+* [Amazon Web Services](https://aws.amazon.com/featured-partners/salesforce/) - AWS is the 'official' cloud partner to Salesforce, with both companies building connectors between their services
+* [Microsoft Azure](https://azure.microsoft.com/) - Although considered a competitor to Salesforce, the Azure platform is found in many customers and it is completely feasible to integrate services in Salesforce
+* [Microsoft Office 365](https://www.office.com/) - Microsoft's other cloud service is also pervasive, and Salesforce also offer connectors to OneDrive, Outlook and Teams
