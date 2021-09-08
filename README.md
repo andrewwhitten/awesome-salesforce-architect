@@ -43,6 +43,7 @@ As an Architect it is good to keep your finger on the pulse of the industry. The
 * [SFDX Discord Server](https://sfxd.github.io/) - Long established unofficial developer community
 * [Ohana Slack Channel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - Long established general community on Salesforce's new Slack aquisition
 * [Salesforce Architects on Linkedin](https://www.linkedin.com/showcase/salesforce-architects/) - Not strictly an interactive community, but many Architects are part of this group
+* [Salesforce Architects on Twitter](https://twitter.com/SalesforceArchs) - @SalesforceArchs as above
 
 ### Podcasts
 * [Salesforce Developer Podcast](https://developer.salesforce.com/podcast) - Official Salesforce Developer podcast with a good number of Architect relevant episodes. Some epidsodes are also on the YouTube channel listed earlier.
