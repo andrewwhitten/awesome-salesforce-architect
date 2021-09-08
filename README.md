@@ -54,10 +54,10 @@ As an Architect it is good to keep your finger on the pulse of the industry. The
 * [Code Coverage](https://podcasts.apple.com/au/podcast/code-coverage-salesforce-developer-podcast/id880831007) - infrequent but still going
 
 ### Tools for Architects
-Worth noting that [LucidChart](https://www.lucidchart.com) announced special (paid) Salesforce diagramming tools at Trailheadx '21, but I can't find anything released yet.
 
-* [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
+* [Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for a free Salesforce Developer environment. You can do most things with this.
 * [diagrams.net](https://www.diagrams.net) - Usefull online drawing service that allows you to create UML diagrams. Not Salesforce specific at all. You can build basic diagrams for free, however higher complexity diagrams will require a paid subscription
+* [LucidChart](https://www.lucidchart.com) announced special (paid) Salesforce diagraming tools at Trailheadx '21
 
 ### Related Salesforce Products
 Salesforce has been investing heavially in aquisitions that are gradually integrating further into their core product. A Salesforce Architect is likely to meet some of these during their career, and worth understanding:
@@ -74,5 +74,5 @@ Salesforce has been investing heavially in aquisitions that are gradually integr
 You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
 
 * [Amazon Web Services](https://aws.amazon.com/featured-partners/salesforce/) - AWS is the 'official' cloud partner to Salesforce, with both companies building connectors between their services
-* [Microsoft Azure](https://azure.microsoft.com/) - Although considered a competitor to Salesforce, the Azure platform is found in many customers and it is completely feasible to integrate services in Salesforce
+* [Microsoft Azure](https://azure.microsoft.com/) - Although considered a competitor to Salesforce, the Azure platform is found in many customers and it is completely feasible to integrate services in Salesforce. You can connect to Azure storage, or leverage Azure AD for SSO.
 * [Microsoft Office 365](https://www.office.com/) - Microsoft's other cloud service is also pervasive, and Salesforce also offer connectors to OneDrive, Outlook and Teams
