@@ -49,5 +49,7 @@ As an Architect it is good to keep your finger on the pulse of the industry. The
 * [Good day sir](https://www.gooddaysirpodcast.com/episodes) - Unofficial Podcast
 
 ### Tools for Architects
+Worth noting that [LucidChart](https://www.lucidchart.com) announced special (paid) Salesforce diagramming tools at Trailheadx '21, but I can't find anything released yet.
+
 * [Free Salesforce Developer Org](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer environment.
-* 
+* [diagrams.net](https://www.diagrams.net) - Usefull online drawing service that allows you to create UML diagrams. Not Salesforce specific at all.
