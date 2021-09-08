@@ -32,6 +32,7 @@ Opinions vary around whether you need to be certified by Salesforce to be an Arc
 * [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything on Trailhead you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
 * [Salesforce Architect Trailmixes (filter on Trailmixes)](https://trailhead.salesforce.com/en/search?keywords=architect) - Comprehensive and free online Trailhead lessons to get you ready for your certification exams. Consensus is that these are a great start, but extra study and experience is ussually needed to pass the architect level exams
 * [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect (CAA) exam
+* [TOGAF](https://www.opengroup.org/togaf) - the inspiration to Salesforce's new SOGAF framework, and well regarded in its own right. Vendor neutral.
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
@@ -65,11 +66,7 @@ Salesforce has been investing heavially in aquisitions that are gradually integr
 * [Slack](https://slack.com) - Collaboration platform, and possibly the future user experience for CRM in the Salesforce stack
 * [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/) - Email marketing platform for advanced customer engagement
 * [Salesforce Industries](https://www.salesforce.com/solutions/industries/) - Industry specific accelerators for Salesforce, including advanced configuration based data access and forms functionality. Used to be the Vlocity company.
-
-### Salesforce ISV's
-An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit:
-
-*
+* [Salesforce App Exchange](https://appexchange.salesforce.com/) - An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit
 
 ### Other Vendors
 You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
