@@ -69,7 +69,7 @@ Salesforce has been investing heavially in aquisitions that are gradually integr
 * [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/) - Email marketing platform for advanced customer engagement
 * [Salesforce Industries](https://www.salesforce.com/solutions/industries/) - Industry specific accelerators for Salesforce, including advanced configuration based data access and forms functionality. Used to be the Vlocity company.
 * [Salesforce App Exchange](https://appexchange.salesforce.com/) - An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit
-* [Heroko](https://www.heroku.com/) - 
+* [Heroko](https://www.heroku.com/) - Extend Salesforce with scalable services
 
 ### Other Vendors
 You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
