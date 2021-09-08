@@ -5,6 +5,8 @@ Inspired by the [awesome-salesforce list](https://github.com/mailtoharshit/aweso
 
 I wanted to create something more focused on Salesforce architects rather than tools and frameworks for developers. Architects still need those, and you should definately check out that list.
 
+I really want this list to be as short as possible, with eery link below adding some value to your Salesforce Architect journey. If you want to add something then please just sublit a pull request or even fork this list for yourself!
+
 ## Table of Contents
 * [Articles for Architects](#articles-for-architects)
 * [Resources for Architects](#resources-for-architects)
@@ -24,7 +26,7 @@ I wanted to create something more focused on Salesforce architects rather than t
 
 ### Certifications for Architects
 * [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
-* [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect) exam. 
+* [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect (CAA) exam. 
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
