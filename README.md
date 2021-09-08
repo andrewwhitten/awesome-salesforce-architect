@@ -36,6 +36,7 @@ As an Architect it is good to keep your finger on the pulse of the industry
 * [Salesforce Developer Sub-reddit](https://www.reddit.com/r/SalesforceDeveloper/) - less used than the main subreddit, but more appropriate for difficult technical questions
 * [SFDX Discord Server](https://sfxd.github.io/) - 
 * [Ohana Slack Cheannel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - 
+* [Salesforce Architects on Linkedin](https://www.linkedin.com/showcase/salesforce-architects/) - 
 
 
 ### Podcasts
