@@ -12,10 +12,11 @@ I really want this list to be as short as possible, with every link below adding
 * [Resources for Architects](#resources-for-architects)
 * [Certifications for Architects](#certifications-for-architects)
 * [Blogs](#blogs)
-* [Online Communities](#online_communities)
+* [Online Communities](#online-communities)
 * [Podcasts](#podcasts)
-* [Tools for Architects](#tools_for_architects)
-
+* [Tools for Architects](#tools-for-architects)
+* [Related Salesforce Products](#related-salesforce-products)
+* [Other Vendors](#other-vendors)
 
 ### Articles for Architects
 * [Salesforce Record Access Under the Hood](https://developer.salesforce.com/docs/atlas.en-us.salesforce_record_access_under_the_hood.meta/salesforce_record_access_under_the_hood/uth_preface.htm) - Important technical description of how Salesforce actually works at its database level, and how that impacts you.
@@ -23,7 +24,7 @@ I really want this list to be as short as possible, with every link below adding
 ### Resources for Architects
 * [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates and best practices
 * [Salesforce Major Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm) - Salesforce releases a lot of new platform features three times a year. As an architect it is worth to be across them to see what can be part of your org's roadmap
-* [YouTube Salesforce Developer](https://www.youtube.com/playlist?list=UUKORm8sxh3cheBpqs0akkhg) - Official Salesforce videos for developers
+
 
 ### Certifications for Architects
 Opinions vary around whether you need to be certified by Salesforce to be an Architect. Some say that only a top certified CTA can speak with authority, and some say they can do their work with no certifications at all. In practice you are going to be helped by archieving some level of certification, as well as learning about platform aspects that you would otherwise not have encountered in your current job:
@@ -34,6 +35,7 @@ Opinions vary around whether you need to be certified by Salesforce to be an Arc
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
+* [YouTube Salesforce Developer](https://www.youtube.com/playlist?list=UUKORm8sxh3cheBpqs0akkhg) - Official Salesforce videos for developers
 
 ### Online Communities
 As an Architect it is good to keep your finger on the pulse of the industry. There are not too many forums dedicated solely to Architects, but still a lot to learn from other experiences:
@@ -67,7 +69,7 @@ Salesforce has been investing heavially in aquisitions that are gradually integr
 ### Salesforce ISV's
 An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit:
 
-* <Section TBC>
+*
 
 ### Other Vendors
 You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
