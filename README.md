@@ -25,7 +25,6 @@ I really want this list to be as short as possible, with every link below adding
 * [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates and best practices
 * [Salesforce Major Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm) - Salesforce releases a lot of new platform features three times a year. As an architect it is worth to be across them to see what can be part of your org's roadmap
 
-
 ### Certifications for Architects
 Opinions vary around whether you need to be certified by Salesforce to be an Architect. Some say that only a top certified CTA can speak with authority, and some say they can do their work with no certifications at all. In practice you are going to be helped by archieving some level of certification, as well as learning about platform aspects that you would otherwise not have encountered in your current job:
 
@@ -33,6 +32,7 @@ Opinions vary around whether you need to be certified by Salesforce to be an Arc
 * [Salesforce Architect Trailmixes (filter on Trailmixes)](https://trailhead.salesforce.com/en/search?keywords=architect) - Comprehensive and free online Trailhead lessons to get you ready for your certification exams. Consensus is that these are a great start, but extra study and experience is ussually needed to pass the architect level exams
 * [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect (CAA) exam
 * [TOGAF](https://www.opengroup.org/togaf) - the inspiration to Salesforce's new SOGAF framework, and well regarded in its own right. Vendor neutral.
+* [MuleSoft](https://training.mulesoft.com/certification) - really quite different to the Salesforce platform, but worth learning about as a Salesforce Architect
 
 ### Blogs
 * [Salesforce Architects Blog](https://medium.com/salesforce-architects) - Official Architect blog 
