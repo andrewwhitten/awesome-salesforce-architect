@@ -5,7 +5,7 @@ Inspired by the [awesome-salesforce list](https://github.com/mailtoharshit/aweso
 
 I wanted to create something more focused on Salesforce architects rather than tools and frameworks for developers. Architects still need those, and you should definately check out that list.
 
-I really want this list to be as short as possible, with every link below adding some value to your Salesforce Architect journey. If you want to add something then please submit a pull request or even just fork this list for yourself!
+I really want this list to be as short as possible, with every link below adding some value to your Salesforce Architect journey. If you want to add something then please submit a pull request or even just fork this list for yourself! Links should be current (i.e. a blog or podcast not updated for more than a year is not really 'awesome' content, whereas a well written article from 10 year's ago and still relevant could be)
 
 ## Table of Contents
 * [Articles for Architects](#articles-for-architects)
@@ -51,6 +51,7 @@ As an Architect it is good to keep your finger on the pulse of the industry. The
 ### Podcasts
 * [Salesforce Developer Podcast](https://developer.salesforce.com/podcast) - Official Salesforce Developer podcast with a good number of Architect relevant episodes. Some epidsodes are also on the YouTube channel listed earlier.
 * [Good day sir](https://www.gooddaysirpodcast.com/episodes) - Unofficial Podcast
+* [Code Coverage](https://podcasts.apple.com/au/podcast/code-coverage-salesforce-developer-podcast/id880831007) - infrequent but still going
 
 ### Tools for Architects
 Worth noting that [LucidChart](https://www.lucidchart.com) announced special (paid) Salesforce diagramming tools at Trailheadx '21, but I can't find anything released yet.
@@ -67,6 +68,7 @@ Salesforce has been investing heavially in aquisitions that are gradually integr
 * [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/) - Email marketing platform for advanced customer engagement
 * [Salesforce Industries](https://www.salesforce.com/solutions/industries/) - Industry specific accelerators for Salesforce, including advanced configuration based data access and forms functionality. Used to be the Vlocity company.
 * [Salesforce App Exchange](https://appexchange.salesforce.com/) - An Architect should know when 'build your own' is going to be costly, and a proven paid product from the market, certified by Salesforce, is going to be a better strategic fit
+* [Heroko](https://www.heroku.com/) - 
 
 ### Other Vendors
 You can't learn everything, but Salesforce seldom exists in isolation. Although keeping everying on one platform is attractive, it is still important to know when to leverage other technology when appropriate:
