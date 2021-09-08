@@ -34,9 +34,9 @@ As an Architect it is good to keep your finger on the pulse of the industry
 
 * [Salesforce Sub-reddit](https://www.reddit.com/r/salesforce/) - completely unofficial, but monitored by Salesforce employees and free of marketing spin
 * [Salesforce Developer Sub-reddit](https://www.reddit.com/r/SalesforceDeveloper/) - less used than the main subreddit, but more appropriate for difficult technical questions
-* [SFDX Discord Server](https://sfxd.github.io/) - 
-* [Ohana Slack Cheannel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - 
-* [Salesforce Architects on Linkedin](https://www.linkedin.com/showcase/salesforce-architects/) - 
+* [SFDX Discord Server](https://sfxd.github.io/) - Long established community
+* [Ohana Slack Cheannel](https://meighanrockssf.com/2019/04/02/salesforce-ohana-slack/) - Another long established community on Salesforce's new Slack aquisition
+* [Salesforce Architects on Linkedin](https://www.linkedin.com/showcase/salesforce-architects/) - Not strictly an interactive community, but many Architects are part of this group
 
 
 ### Podcasts
