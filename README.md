@@ -22,13 +22,14 @@ I really want this list to be as short as possible, with every link below adding
 
 ### Resources for Architects
 * [Salesforce Architects Site](https://architect.salesforce.com/) - Offical Architect site with templates and best practices
+* [Salesforce Major Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm) - Salesforce releases a lot of new platform features three times a year. As an architect it is worth to be across them to see what can be part of your org's roadmap
 * [YouTube Salesforce Developer](https://www.youtube.com/playlist?list=UUKORm8sxh3cheBpqs0akkhg) - Official Salesforce videos for developers
 
 ### Certifications for Architects
 Opinions vary around whether you need to be certified by Salesforce to be an Architect. Some say that only a top certified CTA can speak with authority, and some say they can do their work with no certifications at all. In practice you are going to be helped by archieving some level of certification, as well as learning about platform aspects that you would otherwise not have encountered in your current job:
 
 * [Salesforce Architect Certification Overview](https://trailhead.salesforce.com/credentials/architectoverview) - Everything on Trailhead you need to plan your Architect journey, including CAA (Certified Application Architect), CSA (Certified System Architect) and CTA (Certified Technical Architect)
-* [Salesforce Architect Trailmixes (fileter on Trailmixes)](https://trailhead.salesforce.com/en/search?keywords=architect) - Comprehensive and free online Trailhead lessons to get you ready for your certification exams. Consensus is that these are a great start, but extra study and experience is ussually needed to pass the architect level exams
+* [Salesforce Architect Trailmixes (filter on Trailmixes)](https://trailhead.salesforce.com/en/search?keywords=architect) - Comprehensive and free online Trailhead lessons to get you ready for your certification exams. Consensus is that these are a great start, but extra study and experience is ussually needed to pass the architect level exams
 * [Focus on Force (PAID)](https://focusonforce.com/salesforce-certifications/) - FoF have good study guides and practice exam questions to get you ready for your Certified Application Architect (CAA) exam
 
 ### Blogs
